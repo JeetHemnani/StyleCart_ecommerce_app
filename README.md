@@ -1,43 +1,37 @@
-# 🛍️ StyleCart — Premium E-Commerce App
+#  StyleCart — Premium E-Commerce App
 
 A modern, responsive, and visually stunning E-Commerce Home Page built with Flutter as part of the **Internship Selection Assessment**. 
 
----
-
-## 🚀 Live Demo
-👉 **[View Live Web Demo (Paste your Netlify link here)]**
-
-*You can open and interact with the application directly on your desktop or mobile browser!*
 
 ---
 
-## ✨ Features Implemented
+##  Features Implemented
 
-1. **🎨 Premium UI & Layout Redesign**
+1. ** Premium UI & Layout Redesign**
    - Single-box unified product cards with beautiful border radii, category tags, rating badges, and clean spacing.
    - Proportional aspect ratios optimized for both mobile and web viewports.
    - Smooth modern typography and curated HSL-derived color theme.
 
-2. **🏷️ Dynamic Category Filtering**
+2. **Dynamic Category Filtering**
    - Horizontal scrollable category list (All, Fruits, Vegetables, Snacks, Bakery).
    - Instant filtering of products with a dynamic item counter in the header.
    - Elegant "No products found" fallback views.
 
-3. **🛒 Complete Cart Management**
+3. **Complete Cart Management**
    - Beautiful dedicated **Cart Page** showcasing added products.
    - Interactive quantity control (increase/decrease/remove items) with real-time price totals.
    - Empty cart state with a "Shop Now" quick-return button.
 
-4. **📸 High-Quality Real Images**
+4. **High-Quality Real Images**
    - High-definition, real network product images fetched dynamically from curated Unsplash sources.
    - Intelligent loading indicators and fallback image placeholders for absolute resilience.
 
-5. **⚡ State Management**
+5. **State Management**
    - Lightweight and robust state management powered by the **Provider** pattern for reactive and performant UI updates.
 
 ---
 
-## 🛠️ Tech Stack & Architecture
+## Tech Stack & Architecture
 
 - **Framework:** Flutter (Android, iOS, Web, macOS)
 - **Language:** Dart
@@ -46,7 +40,7 @@ A modern, responsive, and visually stunning E-Commerce Home Page built with Flut
 
 ---
 
-## 💻 Getting Started
+## Getting Started
 
 ### Prerequisites
 Make sure you have Flutter SDK installed on your system:
@@ -72,8 +66,3 @@ flutter --version
    ```
 
 ---
-
-## 📦 Deployment Build Details
-The production-ready web build has been successfully generated:
-- **Build path:** `build/web`
-- Ready for zero-config hosting on Netlify, Vercel, or GitHub Pages.
